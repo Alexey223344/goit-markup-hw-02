@@ -12,13 +12,13 @@ ul {
   list-style: none;
 }
 
-.footer-logo{
-    font-weight: 700;
-font-size: 18px;
-line-height: 1.16667;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #f4f4fd;
+.footer-logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
 }
 
 .logo {
@@ -97,8 +97,7 @@ color: #f4f4fd;
 
 .advantages-title,
 .team-title,
-.portfolio-title
- {
+.portfolio-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -118,35 +117,40 @@ color: #f4f4fd;
 
 .advantages-list,
 .team-list,
-.portfolio-list{
-    background-color: #fff;
+.portfolio-list {
+  background-color: #fff;
 }
 
-.team,
+.our-team,
 .portfolio,
-.advantages{
-font-weight: 700;
-font-size: 36px;
-line-height: 1.11;
-letter-spacing: 0.02em;
-color: #2e2f42;
-text-align: center;
-text-transform: capitalize;
+.advantages {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-align: center;
+  text-transform: capitalize;
 }
 
-.team-list{
-background-color: #f4f4fd;
+.team-section {
+  background-color: #f4f4fd;
+}
+.team-list {
+  background-color: #f4f4fd;
+}
+.team-item{
+  background: #fff;
 }
 
-.footer{
-    background-color: #2e2f42;
+.footer {
+  background-color: #2e2f42;
 }
 
-.footer-text{
-font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #f4f4fd;
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
-
